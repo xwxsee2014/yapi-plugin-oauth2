@@ -1,0 +1,48 @@
+{
+  "_args": [
+    [
+      "yapi-plugin-qsso@1.1.0",
+      "/Users/user/Documents/wenxing/projects/yapi/vendors"
+    ]
+  ],
+  "_from": "yapi-plugin-qsso@1.1.0",
+  "_id": "yapi-plugin-qsso@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha1-oqHquVQFcHxrZ26waX6WQvht0Sg=",
+  "_location": "/yapi-plugin-qsso",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "yapi-plugin-qsso@1.1.0",
+    "name": "yapi-plugin-qsso",
+    "escapedName": "yapi-plugin-qsso",
+    "rawSpec": "1.1.0",
+    "saveSpec": null,
+    "fetchSpec": "1.1.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/yapi-plugin-qsso/download/yapi-plugin-qsso-1.1.0.tgz",
+  "_spec": "1.1.0",
+  "_where": "/Users/user/Documents/wenxing/projects/yapi/vendors",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/YMFE/yapi-plugin-qsso/issues"
+  },
+  "description": "第三方插件，在生成的配置文件中，添加如下配置即可：",
+  "homepage": "https://github.com/YMFE/yapi-plugin-qsso#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "yapi-plugin-qsso",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YMFE/yapi-plugin-qsso.git"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.0"
+}
