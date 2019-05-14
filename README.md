@@ -5,7 +5,7 @@
 ```
 "plugins": [
     {
-      "name": "qsso",
+      "name": "oauth2",
       "options": {
         "type": "oauth2",
         "hostscheme": "http",
